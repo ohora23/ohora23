@@ -31,30 +31,41 @@ I lead the engineers who make service and logistics robots **see, localize and m
 <p><sub>C++ · Apache-2.0</sub> · <a href="https://ohora23.github.io/Axon_SDK_for_PhysicalAI/">project page →</a></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://github.com/ohora23/physicalai-sim2real-camera"><img src="assets/sim2real.jpg" alt="PhysicalAI Sim2Real Camera" width="100%"></a>
+<h3><a href="https://github.com/ohora23/physicalai-sim2real-camera">PhysicalAI Sim2Real Camera</a></h3>
+<p>Makes MuJoCo and Genesis cameras behave like the robot's real one: distortion, noise, motion blur, rolling shutter, depth artefacts, latency and drops, fitted from real captures. ~0.3 ms per frame on the GPU path.</p>
+<p><sub>Python · Apache-2.0</sub> · <a href="https://github.com/ohora23/physicalai-sim2real-camera">code →</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://github.com/ohora23/edge-pointdit-regression-distillation"><img src="assets/edge-pointdit.jpg" alt="Edge-PointDiT" width="100%"></a>
 <h3><a href="https://github.com/ohora23/edge-pointdit-regression-distillation">Edge-PointDiT</a></h3>
 <p>Transparent-object depth on a 2-TOPS RK3588 NPU: PointDiT reproduction retargeted from diffusion to regression, fp16 bit-exact with PyTorch.</p>
 <p><sub>Python · Apache-2.0</sub> · <a href="https://ohora23.github.io/edge-pointdit-regression-distillation/">project page →</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/ohora23/memgarden"><img src="assets/memgarden.jpg" alt="MemGarden" width="100%"></a>
 <h3><a href="https://github.com/ohora23/memgarden">MemGarden</a></h3>
 <p>Long-term memory for AI coding agents: local-LLM fact extraction and hybrid recall in one Rust binary on one SQLite file.</p>
 <p><sub>Rust · MIT</sub> · <a href="https://ohora23.github.io/memgarden/">project page →</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/ohora23/leap-motion-linux-revival"><img src="assets/leap.jpg" alt="Leap Motion Linux Revival Kit" width="100%"></a>
 <h3><a href="https://github.com/ohora23/leap-motion-linux-revival">Leap Motion Linux Revival Kit</a></h3>
 <p>The original Leap Motion Controller back on modern Linux after Ultraleap shut down: archived packages, a udev fix, a live visualizer.</p>
 <p><sub>Shell · Python · MIT</sub> · <a href="https://ohora23.github.io/leap-motion-linux-revival/">project page →</a></p>
 </td>
+<td width="50%" valign="top">
+<a href="https://github.com/ohora23/local-llm-toolkit"><img src="assets/local-llm.jpg" alt="Local LLM Toolkit" width="100%"></a>
+<h3><a href="https://github.com/ohora23/local-llm-toolkit">Local LLM Toolkit</a></h3>
+<p>Several local LLMs on one 16 GB GPU: one CLI and a native GUI, serving profiles, benchmarks and coding-eval harnesses.</p>
+<p><sub>Shell · Rust · MIT</sub> · <a href="https://ohora23.github.io/local-llm-toolkit/">project page →</a></p>
+</td>
 </tr>
 </table>
-
-Also: [**Local LLM Toolkit**](https://github.com/ohora23/local-llm-toolkit) — several local LLMs on one 16 GB GPU, with serving profiles, benchmarks and coding-eval harnesses ([page](https://ohora23.github.io/local-llm-toolkit/))<br>
-**PhysicalAI Sim2Real Camera** — real-camera realism for MuJoCo / Genesis simulators, fitted from real captures (private, available on request).
 
 ## 🔭 Focus
 
