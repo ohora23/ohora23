@@ -34,7 +34,7 @@ I lead the engineers who make service and logistics robots **see, localize and m
 <a href="https://github.com/ohora23/physicalai-sim2real-camera"><img src="assets/sim2real.jpg" alt="PhysicalAI Sim2Real Camera" width="100%"></a>
 <h3><a href="https://github.com/ohora23/physicalai-sim2real-camera">PhysicalAI Sim2Real Camera</a></h3>
 <p>Makes MuJoCo and Genesis cameras behave like the robot's real one: distortion, noise, motion blur, rolling shutter, depth artefacts, latency and drops, fitted from real captures. ~0.3 ms per frame on the GPU path.</p>
-<p><sub>Python · Apache-2.0</sub> · <a href="https://github.com/ohora23/physicalai-sim2real-camera">code →</a></p>
+<p><sub>Python · Apache-2.0</sub> · <a href="https://ohora23.github.io/physicalai-sim2real-camera/">project page →</a></p>
 </td>
 </tr>
 <tr>
